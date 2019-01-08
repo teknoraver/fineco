@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Fineco</string>
+
+	<!-- Widgets -->
+	<string name="usercode">Codice utente</string>
+	<string name="password">Password</string>
+	<string name="login">Entra</string>
+	<string name="list">Lista movimenti</string>
+	<string name="summary">Riepilogo conto</string>
+	<string name="carta">Carta di credito</string>
+	<string name="listco">Conto</string>
+	<string name="listca">Carta</string>
+	<string name="save">Login automatico</string>
+	<string name="loadmore">movimenti precedenti</string>
+
+	<!-- Messages -->
+	<string name="err">Errore</string>
+	<string name="connerr">Errore di connessione</string>
+	<string name="loggingt">Login</string>
+	<string name="loggingm">Login in corso</string>
+	<string name="savet">Attenzione</string>
+	<string name="savem">Attivando quest\'opzione verrà effettuato il login automatico all\'avvio dell\'applicazione.\nIn caso di smarrimento del dispositivo chiunque avrà accesso al conto, anche se non potrà effettuare bonifici e ricariche.\nIn tal caso si raccomanda di cambiare subito la password dal sito web di Fineco.</string>
+
+	<string name="waitt">Attendere</string>
+	<string name="waitm">Recupero dati</string>
+</resources>
